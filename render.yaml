@@ -1,0 +1,10 @@
+﻿services:
+  - type: web
+    name: network-anomaly-api
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    healthCheckPath: /api/health
+    autoDeploy: true
