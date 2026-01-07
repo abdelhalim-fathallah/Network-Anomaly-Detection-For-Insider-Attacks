@@ -32,7 +32,7 @@ Before starting, ensure the backend is running.
 
 ## Team Members
 ```
-• Abdelhalim Mohsen Fathallah <br />
+• Abdelhalim Mohsen Fathallah
 • Sameh Mahmoud El-Gebally 
 • Asmaa Ibrahim lila 
 • Mohamed Ali Abdulmuti 
